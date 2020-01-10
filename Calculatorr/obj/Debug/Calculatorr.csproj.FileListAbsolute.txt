@@ -1,0 +1,9 @@
+C:\Users\Code Academy\Desktop\Asp Core\Calculator_Wform\Calculatorr\Calculatorr\obj\Debug\Calculatorr.csprojAssemblyReference.cache
+C:\Users\Code Academy\Desktop\Asp Core\Calculator_Wform\Calculatorr\Calculatorr\obj\Debug\Calculatorr.Form1.resources
+C:\Users\Code Academy\Desktop\Asp Core\Calculator_Wform\Calculatorr\Calculatorr\obj\Debug\Calculatorr.Properties.Resources.resources
+C:\Users\Code Academy\Desktop\Asp Core\Calculator_Wform\Calculatorr\Calculatorr\obj\Debug\Calculatorr.csproj.GenerateResource.cache
+C:\Users\Code Academy\Desktop\Asp Core\Calculator_Wform\Calculatorr\Calculatorr\bin\Debug\Calculatorr.exe.config
+C:\Users\Code Academy\Desktop\Asp Core\Calculator_Wform\Calculatorr\Calculatorr\bin\Debug\Calculatorr.exe
+C:\Users\Code Academy\Desktop\Asp Core\Calculator_Wform\Calculatorr\Calculatorr\bin\Debug\Calculatorr.pdb
+C:\Users\Code Academy\Desktop\Asp Core\Calculator_Wform\Calculatorr\Calculatorr\obj\Debug\Calculatorr.exe
+C:\Users\Code Academy\Desktop\Asp Core\Calculator_Wform\Calculatorr\Calculatorr\obj\Debug\Calculatorr.pdb
